@@ -1,0 +1,52 @@
+body{
+
+    background-color: yellow;
+
+}
+#heading{
+
+    font-family: 'Press Start 2P', cursive;
+    margin : 0px;
+    text-align: center;
+    position: fixed;
+    font-size: 60px;
+    font-weight: bold;
+    position: relative;
+    padding: 0px;
+
+}
+
+#score{
+
+    position: fixed;
+    top : 91%;
+    left : 47%;
+
+}
+
+#food{
+
+  position: absolute;  
+  background-color: red;
+  border-style: solid;
+  border-color: white;
+  width: 1%;
+  height: 3%;
+  border-radius: 10px;
+  
+
+}
+
+#screen{
+
+    border-style: solid;
+    border-width: 20px;
+    border-radius: 1cm;
+    position: fixed;
+    left: 3.5%;
+    top: 10%;
+    height: 500px;
+    width: 90%;
+    background-color: blue;
+
+}
